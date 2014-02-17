@@ -20,3 +20,5 @@ add this line to /etc/hosts
 127.0.0.1  sandbox.hortonworks.com
 
 
+
+Migrate the code of hbase the definitive guide for use with hdp2 sandbox.
