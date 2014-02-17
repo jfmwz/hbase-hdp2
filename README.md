@@ -9,9 +9,9 @@ Basic configuration to connect to hdp2
 
 
 
-conf.set("hbase.zookeeper.quorum", "sandbox.hortonworks.com");
-conf.set("hbase.zookeeper.property.clientPort", "2181");
-conf.set("zookeeper.znode.parent", "/hbase-unsecure");
+conf.set("hbase.zookeeper.quorum", "sandbox.hortonworks.com");  
+conf.set("hbase.zookeeper.property.clientPort", "2181");  
+conf.set("zookeeper.znode.parent", "/hbase-unsecure");  
 
 change in the local machine
 
